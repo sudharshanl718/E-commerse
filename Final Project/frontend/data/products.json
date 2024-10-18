@@ -1,0 +1,72 @@
+[
+    {
+        "name":"OPPO F21s Pro 5G (Dawnlight Gold, 8GB RAM, 128GB Storage) with No cost EMI/Additional Exchange Offers",
+        "price":245.67,
+        "description":"OPPO F21s Pro 5G in Dawnlight Gold color gradient, 8+128GB, 48MP camera, 5000mAh battery, 18W adaptor with cable, sim ejector, phone case",
+        "rating":"4",
+        "images":[
+            {
+                "image":"/images/products/oppo.png"
+            }
+        ],
+        "category":"Mobile Phone",
+        "seller":"Amazon",
+        "stock":5
+    },
+    {
+        "name":"Samsung Galaxy S24 Ultra 5G AI Smartphone(Titanium Gray, 12GB RAM, 512GB Storage)",
+        "price":150.32,
+        "description":"Samsung Galaxy S24 Ultra 5G AI Smartphone with Titanium Gray color gradient, 12+512GB, 48MP camera, 5000mAh battery, 18W adaptor with cable, sim ejector, phone case",
+        "rating":"3",
+        "images":[
+            {
+                "image":"/images/products/samsung.png"
+            }
+        ],
+        "category":"Mobile Phone",
+        "seller":"Amazon",
+        "stock":7
+    },
+    {
+        "name":"Redmi 13 5g Black Diamond, 6GB+128GB | 108MP Pro Grade Camera | 6.79 in Largest Display in Segment",
+        "price":440.57,
+        "description":"Redmi 13 5g Black Diamond, 6GB+128GB | 108MP Pro Grade Camera | 6.79 in Largest Display in Segment, 5000mAh battery, 18W adaptor with cable, sim ejector, phone case",
+        "rating":"4",
+        "images":[
+            {
+                "image":"/images/products/redmi.png"
+            }
+        ],
+        "category":"Mobile Phone",
+        "seller":"Amazon",
+        "stock":4
+    },
+    {
+        "name":"POCO M6 5G (Galactic Black, 8GB RAM, 256GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging",
+        "price":15.46,
+        "description":"POCO M6 5G (Galactic Black, 8GB RAM, 256GB Storage) | MediaTek Dimensity 6100+ 5G Processor | 5000 mAh Battery + 18W Fast Charging with cable, sim ejector, phone case",
+        "rating":"3",
+        "images":[
+            {
+                "image":"/images/products/poco.png"
+            }
+        ],
+        "category":"Mobile Phone",
+        "seller":"Amazon",
+        "stock":6
+    },
+    {
+        "name":"Realme 13 Pro+ 5G(Monet Gold, 8GB RAM, 256GB Storage) | Upto 16GB Dynamic RAM | Snapdragon 7s Gen2 Processor",
+        "price":10.12,
+        "description":"Realme 13 Pro+ 5G(Monet Gold, 8GB RAM, 256GB Storage) | Upto 16GB Dynamic RAM | Snapdragon 7s Gen2 Processor | 5000 mAh Battery + 18W Fast Charging with cable, sim ejector, phone case",
+        "rating":"4",
+        "images":[
+            {
+                "image":"/images/products/realme.png"
+            }
+        ],
+        "category":"Mobile Phone",
+        "seller":"Amazon",
+        "stock":10
+    }
+]
